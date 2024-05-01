@@ -72,3 +72,8 @@ cross-reference data in Odoo and Avatax.
 
 .. seealso::
    - :doc:`fiscal_positions`
+
+.. toctree::
+   :titlesonly:
+
+   avatax/avatax_use
